@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamdograts
 - 👀 I’m interested in building things (currently building applications)
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything productive
 
 <!---
 shubhamdograts/shubhamdograts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
